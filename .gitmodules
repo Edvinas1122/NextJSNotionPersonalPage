@@ -1,0 +1,3 @@
+[submodule "NextJSApp/portfolioApp"]
+	path = NextJSApp/portfolioApp
+	url = https://github.com/Edvinas1122/nextjs.git
