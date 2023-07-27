@@ -1,0 +1,1 @@
+docker stop next_porfolio_app

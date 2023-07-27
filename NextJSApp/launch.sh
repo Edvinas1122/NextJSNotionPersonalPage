@@ -1,0 +1,1 @@
+docker run --name next_porfolio_app -p 3000:3000 -v $(pwd)/portfolioApp/app/:/app/app/ next_porfolio_app

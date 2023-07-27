@@ -1,0 +1,1 @@
+docker run -p 3000:3000 -it --rm next_porfolio_app /bin/bash
