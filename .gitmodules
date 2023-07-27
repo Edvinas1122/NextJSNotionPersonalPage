@@ -1,3 +1,6 @@
 [submodule "NextJSApp/portfolioApp"]
 	path = NextJSApp/portfolioApp
 	url = https://github.com/Edvinas1122/nextjs.git
+[submodule "NextJSApp/notion-blog"]
+	path = NextJSApp/notion-blog
+	url = https://github.com/Edvinas1122/notion-blog
