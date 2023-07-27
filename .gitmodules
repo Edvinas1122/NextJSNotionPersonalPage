@@ -4,3 +4,9 @@
 [submodule "NextJSApp/notion-blog"]
 	path = NextJSApp/notion-blog
 	url = https://github.com/Edvinas1122/notion-blog
+[submodule "NextJSApp/NextJSApp/next-notion"]
+	path = NextJSApp/NextJSApp/next-notion
+	url = https://github.com/Edvinas1122/nextjs-notion-starter-kit.git
+[submodule "NextJSApp/next-notion"]
+	path = NextJSApp/next-notion
+	url = https://github.com/Edvinas1122/nextjs-notion-starter-kit.git
